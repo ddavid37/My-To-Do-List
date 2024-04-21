@@ -19,7 +19,6 @@ This is a simple to-do list web application created using HTML, CSS, and JavaScr
 
 If you have any questions, feedback, or suggestions, feel free to contact the creator of this project:
 
-**Creator:** [Daniel David]
 **Email:** [daniel1957000@gmail.com]
 
 Thank you for trying out the To-Do List project!
