@@ -22,5 +22,3 @@ If you have any questions, feedback, or suggestions, feel free to contact the cr
 **Email:** [daniel1957000@gmail.com]
 
 Thank you for trying out the To-Do List project!
-
- 
